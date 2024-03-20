@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RedaElhajjami
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning IT DEVELOPMENT
